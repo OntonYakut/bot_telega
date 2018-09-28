@@ -1,0 +1,6 @@
+class Example {
+   static void main(String[] args) {
+      def x = 10;
+      println('Hello World: ' + x);
+   }
+}
